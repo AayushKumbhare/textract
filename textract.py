@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 import json
 import uuid
+import time
 
 load_dotenv('.env')
 
@@ -43,17 +44,54 @@ def add_to_dynamodb(file):
     try:
         with open(f'textract_responses/{file}', 'r') as f:
             data = json.load(f)
-        dynamodb.put_item(
-            TableName='textract-files',
-            Item={
-                'id': {'S': file},
-                'id_2': {'S': str(uuid.uuid4())},
-                'data': {'S': json.dumps(data)}
-            }
-        )
+        data_string = json.dumps(data)
+        data_size = len(data_string.encode('utf-8'))
+        if (data_size > 1024 * 1024):
+            dynamodb.put_item(
+                TableName='textract-files',
+                Item={
+                    'id': {'S': file},
+                    'id_2': {'S': str(uuid.uuid4())},
+                    'data': {'S': 'file too large'}
+                }
+            )
+            print(f"{file} was too large")
+        else:
+            dynamodb.put_item(
+                TableName='textract-files',
+                Item={
+                    'id': {'S': file},
+                    'id_2': {'S': str(uuid.uuid4())},
+                    'data': {'S': json.dumps(data)}
+                }
+            )
         print(f"Added {file} to DynamoDB")
     except Exception as e:
         print(f"Error adding {file} to DynamoDB: {e}")
+
+def get_document_analysis_results(job_id):
+    max_retries = 30  # Adjust based on your needs
+    retry_count = 0
+    
+    while retry_count < max_retries:
+        response = textract.get_document_analysis(JobId=job_id)
+        status = response['JobStatus']
+        
+        if status == 'SUCCEEDED':
+            return response
+        elif status == 'FAILED':
+            print(f"Analysis job failed: {response.get('StatusMessage', 'No error message available')}")
+            return None
+        elif status == 'IN_PROGRESS':
+            print(f"Analysis in progress... (Attempt {retry_count + 1}/{max_retries})")
+            time.sleep(5)  # Wait 5 seconds before checking again
+            retry_count += 1
+        else:
+            print(f"Unexpected status: {status}")
+            return None
+    
+    print("Maximum retries reached. Job took too long.")
+    return None
 
 def extract_data():
     # Process each file in the S3 bucket
@@ -78,8 +116,11 @@ def extract_data():
                 FeatureTypes=["FORMS", "TABLES"]
             )
 
-            response = textract.get_document_analysis(JobId=job_id["JobId"])
-            responses[file] = response
+            response = get_document_analysis_results(job_id["JobId"])
+            if response:
+                responses[file] = response
+            else:
+                print("Analysis failed or timed out")
 
             os.makedirs("textract_responses", exist_ok=True)
             file_name = file.replace("/", "_")

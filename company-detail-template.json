@@ -1,0 +1,70 @@
+{
+    "companyName": "",
+    "currentRevenue": "",
+    "revenueGrowthRate": "",
+    "ebitda": {},
+    "burnRate": "",
+    "cashOnHand": "",
+    "revenue": {},
+    "totalUsers": "",
+    "payingCustomers": "",
+    "latestValuation": "",
+    "totalFundingRaised": "",
+    "fundingRounds": [
+        {
+            "round": "",
+            "date": "",
+            "amount": "",
+            "leadInvestor": "",
+            "valuation": "",
+            "keyInvestors": [
+                ""
+            ]
+        }
+    ],
+    "institutionalInvestors": [
+        ""
+    ],
+    "strategicInvestors": [
+        ""
+    ],
+    "industry": "",
+    "fundingStage": "",
+    "products": [
+        ""
+    ],
+    "partnerships": [
+        {
+            "partner": "",
+            "details": ""
+        }
+    ],
+    "integrations": [
+        ""
+    ],
+    "distributionAgreements": [
+        ""
+    ],
+    "founders": [
+        ""
+    ],
+    "keyTeamUpdates": [
+        ""
+    ],
+    "boardSeats": "",
+    "anticipatedExitTimeframe": "",
+    "acquisitionOffersLast12Months": false,
+    "ipoPlansNext12Months": false,
+    "achievements": [
+        ""
+    ],
+    "citations": [
+        {
+            "url": "",
+            "name": "",
+            "fields": [
+                ""
+            ]
+        }
+    ]
+}
