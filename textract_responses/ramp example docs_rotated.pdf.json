@@ -1,0 +1,15 @@
+{
+    "JobStatus": "IN_PROGRESS",
+    "AnalyzeDocumentModelVersion": "1.0",
+    "ResponseMetadata": {
+        "RequestId": "790c2f62-f93c-4a53-a08a-49366c92a577",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "790c2f62-f93c-4a53-a08a-49366c92a577",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "63",
+            "date": "Thu, 06 Mar 2025 02:00:17 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}
