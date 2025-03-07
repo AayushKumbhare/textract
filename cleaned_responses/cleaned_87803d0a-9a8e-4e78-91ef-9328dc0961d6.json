@@ -1,0 +1,1571 @@
+{
+    "JobStatus": "SUCCEEDED",
+    "Blocks": [
+        {
+            "BlockType": "PAGE",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Liquidation Threshold and Common Unit Valuation for Ramp",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "BALANCE SHEET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Metric",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "2023",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "2024",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Cash and cash equivalents",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$90,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$100,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Current assets",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$140,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$190,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Long-term assets",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$110,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$160,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Total assets",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$250,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$350,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Current liabilities",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$150,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$180,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Long-term liabilities",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$75,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$100,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Total liabilities",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$225,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$280,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Total equity",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$25,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$70,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Total liabilities and equity",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$250,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "$350,000,000",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "Historical financial statements were provided by the Company. Cash and cash equivalents shown are as of the Valuation Date.",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "CONFIDENTIAL",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "LINE",
+            "Text": "9",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Liquidation",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Threshold",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "and",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Common",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Unit",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Valuation",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "for",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Ramp",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "BALANCE",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "SHEET",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Metric",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "2023",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "2024",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Cash",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "and",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "cash",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "equivalents",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$90,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$100,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Current",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "assets",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$140,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$190,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Long-term",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "assets",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$110,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$160,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Total",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "assets",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$250,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$350,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Current",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "liabilities",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$150,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$180,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Long-term",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "liabilities",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$75,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$100,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Total",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "liabilities",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$225,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$280,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Total",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "equity",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$25,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$70,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Total",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "liabilities",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "and",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "equity",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$250,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "$350,000,000",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Historical",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "financial",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "statements",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "were",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "provided",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "by",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "the",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Company.",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Cash",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "and",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "cash",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "equivalents",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "shown",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "are",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "as",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "of",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "the",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Valuation",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "Date.",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "CONFIDENTIAL",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "WORD",
+            "Text": "9",
+            "TextType": "PRINTED",
+            "Page": 1
+        },
+        {
+            "BlockType": "TABLE",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                },
+                {
+                    "Type": "TABLE_TITLE"
+                },
+                {
+                    "Type": "TABLE_FOOTER"
+                }
+            ],
+            "EntityTypes": [
+                "STRUCTURED_TABLE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "COLUMN_HEADER"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "COLUMN_HEADER"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "COLUMN_HEADER"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 4,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 4,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 4,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 5,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 5,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 5,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 6,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 6,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 6,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 7,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 7,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 7,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 8,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 8,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 8,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 9,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 9,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 9,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 10,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 10,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 10,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 11,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 11,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 11,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 12,
+            "ColumnIndex": 1,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 12,
+            "ColumnIndex": 2,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "CELL",
+            "RowIndex": 12,
+            "ColumnIndex": 3,
+            "RowSpan": 1,
+            "ColumnSpan": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "TABLE_SUMMARY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "TABLE_TITLE",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "TABLE_FOOTER",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "VALUE"
+                },
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "KEY"
+            ],
+            "Page": 1
+        },
+        {
+            "BlockType": "KEY_VALUE_SET",
+            "Relationships": [
+                {
+                    "Type": "CHILD"
+                }
+            ],
+            "EntityTypes": [
+                "VALUE"
+            ],
+            "Page": 1
+        }
+    ],
+    "AnalyzeDocumentModelVersion": "1.0"
+}
